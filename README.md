@@ -1,2 +1,2 @@
-# gobarber
-App de estudo do bootcamp-gostack da Rocketseat
+# nodejs code base
+Código base para api node, ja configurado eslint e prettier
