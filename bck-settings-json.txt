@@ -1,0 +1,35 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "aws.telemetry": true,
+    "aws.profile": "default",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula",
+    "editor.rulers": [80, 120],
+    "eslint.autoFixOnSave": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.tabSize": 2,
+    "emmet.includeLanguages": {"javascript:": "javascriptreact"},
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": true,
+    "javascript.suggest.autoImports": false,
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true
+        },
+        {
+            "language": "javascriptreact",
+            "autoFix": true
+        },
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typrescriptreact",
+            "autoFix": true
+        }
+    ]
+}
